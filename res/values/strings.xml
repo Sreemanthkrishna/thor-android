@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SSA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_userreg">Userreg</string>
+    <string name="title_activity_adminhome">Adminhome</string>
+    <string name="title_activity_userhome">Userhome</string>
+    <string name="title_activity_add_question">AddQuestion</string>
+    <string name="title_activity_admin_answer">AdminAnswer</string>
+    <string name="title_activity_adminuser">Adminuser</string>
+    <string name="title_activity_adminquestion">Adminquestion</string>
+    <string name="title_activity_pie_chart">PieChart</string>
+    <string name="title_activity_display">Display</string>
+
+</resources>
